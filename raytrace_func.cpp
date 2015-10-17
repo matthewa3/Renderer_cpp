@@ -116,6 +116,8 @@ double Sphere::intersect(const Ray &r) const
 /******************** Begin Scene Description *************************/
 
 //scene: radius, position, emission, color, material
+//can replace cornell box by any of the scenes in scenes file
+//just replace from spheres[] onward 
 
 /************************* Cornell Box *****************************/
    //consists of a reflective sphere and transparent sphere in a room with

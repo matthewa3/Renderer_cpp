@@ -28,7 +28,7 @@
 int main()
 {
    int w = 1024, h = 768;   //image size
-   int samps = 4;   //number of samples to take   
+   int samps = 4;   //number of samples per pixel to take   
 
    render(w, h, samps);
 
