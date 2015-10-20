@@ -14,3 +14,9 @@ To run and check time executed: time ./render
 This program will use all your cores to calculate the scene so be forwarned.
 
 I also included extra scenes to render in the aptly named scenes file. I reccomend the wada scene so see how fast this program can render an image. 
+
+###Relevant Links
+
+- [Rendering Equation](https://en.wikipedia.org/wiki/Rendering_equation)
+- [Rendering (Computer Graphics)](https://en.wikipedia.org/wiki/Rendering_(computer_graphics)#Optimization)
+- [Path Tracing](https://en.wikipedia.org/wiki/Path_tracing)
